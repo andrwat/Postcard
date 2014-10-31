@@ -13,6 +13,7 @@
 		49C3D0691A02289C009648F1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49C3D0681A02289C009648F1 /* Images.xcassets */; };
 		49C3D06C1A02289C009648F1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49C3D06A1A02289C009648F1 /* LaunchScreen.xib */; };
 		49C3D0781A02289C009648F1 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C3D0771A02289C009648F1 /* PostcardTests.swift */; };
+		49C3D0821A02302A009648F1 /* Yosemite - Half Dome.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49C3D0811A02302A009648F1 /* Yosemite - Half Dome.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		49C3D0711A02289C009648F1 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49C3D0761A02289C009648F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49C3D0771A02289C009648F1 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		49C3D0811A02302A009648F1 /* Yosemite - Half Dome.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Yosemite - Half Dome.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		49C3D05F1A02289C009648F1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				49C3D0811A02302A009648F1 /* Yosemite - Half Dome.jpg */,
 				49C3D0601A02289C009648F1 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +198,7 @@
 				49C3D0671A02289C009648F1 /* Main.storyboard in Resources */,
 				49C3D06C1A02289C009648F1 /* LaunchScreen.xib in Resources */,
 				49C3D0691A02289C009648F1 /* Images.xcassets in Resources */,
+				49C3D0821A02302A009648F1 /* Yosemite - Half Dome.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
